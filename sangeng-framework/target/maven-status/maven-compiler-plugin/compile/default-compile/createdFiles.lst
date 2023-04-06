@@ -1,0 +1,4 @@
+com\yu\domain\entity\Article.class
+com\yu\service\ArticleService.class
+com\yu\service\impl\ArticleServiceImpl.class
+com\yu\mapper\ArticleMapper.class
